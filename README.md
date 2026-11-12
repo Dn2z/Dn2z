@@ -1,4 +1,4 @@
-# Hi, I'm Dn2z 👋
+# MK hereeee
 
 I'm learning **malware analysis** and **digital forensics (DFIR)**. I build small defensive security tools in Python to understand how analysts actually work.
 
